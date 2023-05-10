@@ -9,3 +9,4 @@
  </ul>
   </li>
  <li>Link đề thi: https://bit.ly/dethi_round1
+ <li>Please download the excel file above to view the work
