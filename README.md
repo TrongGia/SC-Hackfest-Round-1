@@ -1,4 +1,5 @@
 <ul>
+ <li>SC Hackfest Round 1 using excel function and VBA </li>
  <li>Tên đội thi: SHINE TEAM </li>
   <li>Tên thành viên:
   <ul>
@@ -7,4 +8,4 @@
     <li> Lương Nguyễn Thảo Linh </li>   
  </ul>
   </li>
- <li>Link đề thi:</li> https://bit.ly/dethi_round1
+ <li>Link đề thi: https://bit.ly/dethi_round1
