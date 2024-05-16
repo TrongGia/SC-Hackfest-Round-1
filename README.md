@@ -1,12 +1,12 @@
 <ul>
  <li>SC Hackfest Round 1 using excel function and VBA </li>
- <li>Tên đội thi: SHINE TEAM </li>
-  <li>Tên thành viên:
+ <li>Team's name: SHINE TEAM </li>
+  <li>Team member:
   <ul>
     <li> Đào Ngọc Thùy Linh </li>
     <li> Ngô Trọng Gia </li>
     <li> Lương Nguyễn Thảo Linh </li>   
  </ul>
   </li>
- <li>Link đề thi: https://bit.ly/dethi_round1
+ <li>Question: https://bit.ly/dethi_round1
  <li>Please download the excel file above to view the work
